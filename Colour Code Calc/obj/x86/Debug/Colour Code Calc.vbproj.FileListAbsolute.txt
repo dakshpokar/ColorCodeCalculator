@@ -1,0 +1,17 @@
+C:\Users\C.S. Pokar\documents\visual studio 2010\Projects\Colour Code Calc\Colour Code Calc\bin\Debug\Colour Code Calc.exe.config
+C:\Users\C.S. Pokar\documents\visual studio 2010\Projects\Colour Code Calc\Colour Code Calc\bin\Debug\Colour Code Calc.exe.manifest
+C:\Users\C.S. Pokar\documents\visual studio 2010\Projects\Colour Code Calc\Colour Code Calc\bin\Debug\Colour Code Calc.application
+C:\Users\C.S. Pokar\documents\visual studio 2010\Projects\Colour Code Calc\Colour Code Calc\bin\Debug\Colour Code Calc.exe
+C:\Users\C.S. Pokar\documents\visual studio 2010\Projects\Colour Code Calc\Colour Code Calc\bin\Debug\Colour Code Calc.pdb
+C:\Users\C.S. Pokar\documents\visual studio 2010\Projects\Colour Code Calc\Colour Code Calc\bin\Debug\Colour Code Calc.xml
+C:\Users\C.S. Pokar\documents\visual studio 2010\Projects\Colour Code Calc\Colour Code Calc\obj\x86\Debug\DakshTechSolutions.Form1.resources
+C:\Users\C.S. Pokar\documents\visual studio 2010\Projects\Colour Code Calc\Colour Code Calc\obj\x86\Debug\DakshTechSolutions.Resources.resources
+C:\Users\C.S. Pokar\documents\visual studio 2010\Projects\Colour Code Calc\Colour Code Calc\obj\x86\Debug\Colour Code Calc.vbproj.GenerateResource.Cache
+C:\Users\C.S. Pokar\documents\visual studio 2010\Projects\Colour Code Calc\Colour Code Calc\obj\x86\Debug\Colour Code Calc.exe.manifest
+C:\Users\C.S. Pokar\documents\visual studio 2010\Projects\Colour Code Calc\Colour Code Calc\obj\x86\Debug\Colour Code Calc.application
+C:\Users\C.S. Pokar\documents\visual studio 2010\Projects\Colour Code Calc\Colour Code Calc\obj\x86\Debug\Colour Code Calc.exe
+C:\Users\C.S. Pokar\documents\visual studio 2010\Projects\Colour Code Calc\Colour Code Calc\obj\x86\Debug\Colour Code Calc.xml
+C:\Users\C.S. Pokar\documents\visual studio 2010\Projects\Colour Code Calc\Colour Code Calc\obj\x86\Debug\Colour Code Calc.pdb
+C:\Users\C.S. Pokar\documents\visual studio 2010\Projects\Colour Code Calc\Colour Code Calc\obj\x86\Debug\DakshTechSolutions.AboutBox1.resources
+C:\Users\C.S. Pokar\documents\visual studio 2010\Projects\Colour Code Calc\Colour Code Calc\obj\x86\Debug\DakshTechSolutions.SplashScreen1.resources
+C:\Users\C.S. Pokar\documents\visual studio 2010\Projects\Colour Code Calc\Colour Code Calc\obj\x86\Debug\Colour Code Calc.TrustInfo.xml

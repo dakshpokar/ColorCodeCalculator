@@ -1,0 +1,14 @@
+C:\Users\C.S. Pokar\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\C.S. Pokar\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Colour Code Calculator.exe.config
+C:\Users\C.S. Pokar\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Colour Code Calculator.exe.manifest
+C:\Users\C.S. Pokar\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Colour Code Calculator.application
+C:\Users\C.S. Pokar\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Colour Code Calculator.exe
+C:\Users\C.S. Pokar\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Colour Code Calculator.pdb
+C:\Users\C.S. Pokar\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Colour Code Calculator.xml
+C:\Users\C.S. Pokar\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\DakshTechSolutions.Form1.resources
+C:\Users\C.S. Pokar\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\DakshTechSolutions.Resources.resources
+C:\Users\C.S. Pokar\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Colour Code Calculator.exe.manifest
+C:\Users\C.S. Pokar\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Colour Code Calculator.application
+C:\Users\C.S. Pokar\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Colour Code Calculator.exe
+C:\Users\C.S. Pokar\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Colour Code Calculator.xml
+C:\Users\C.S. Pokar\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Colour Code Calculator.pdb

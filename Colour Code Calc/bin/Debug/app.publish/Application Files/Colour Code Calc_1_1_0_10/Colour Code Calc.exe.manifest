@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Colour Code Calc.exe" version="1.1.0.10" publicKeyToken="5e0508697a3c8412" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="favicon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Colour Code Calc" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Colour Code Calc.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Colour Code Calc.exe" size="396288">
+      <assemblyIdentity name="Colour Code Calc" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>t94cPa2D9QGvHNea6mIrKywRZjI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.VisualBasic.PowerPacks.Vs.dll" size="259464">
+      <assemblyIdentity name="Microsoft.VisualBasic.PowerPacks.Vs" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>ht9gayw7qviBWoZTNeGrJx3jUcI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Colour Code Calc.exe.config" size="246">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>9U0jhYpIM4lUxDbjKNU8lWs9n0w=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="favicon.ico" size="107206">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Olb+dZ0xU7exqxTXtxpNb0f5B/4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=SANSKRUTI-PC\C.S. Pokar" issuerKeyHash="16ec962d541a36455a8cb3a8f4a48e8332f82eb6" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>tb3BsTTCdm+rPZekTPttiorVyyQ=</DigestValue></Reference></SignedInfo><SignatureValue>GS9Ms85rc/3ZqSDfpQ8j+nnyv0ItXQvEHCDP4P0zruiCTlBrNG9wzNYYcQ+h8Z3YEvqFxcnj4L4mfu/LLHMLQ2Je0GRAe0yEexdIqd0h5iVIlsI7kSWLEPDX92nMrBTw8BUUruoDfF4Wayu16lo04XgsZr6inG+ts9hB6Yo+WO0=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>kZk9qcc6R1ZIkX3peCNzTi8+d7TxTM+ZWt6o7uZmZ10asSrKvG0pLlmug2P4NvT+ut/Pv5HYJsXYrZosSdVUUwMsX4eBG5m5LW0jKy2zuiNssYd5siFvjr974VvAB28Vu3QF1SOJovmETmGhSkOURqa+dZDiJcHITF1CiDSwDyk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="24cbd58a8a6dfb4ca4973dab6f76c234b1c1bdb5" Description="" Url=""><as:assemblyIdentity name="Colour Code Calc.exe" version="1.1.0.10" publicKeyToken="5e0508697a3c8412" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=SANSKRUTI-PC\C.S. Pokar</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>70m88ucgplcKVuy49vUe4Qbh1SI=</DigestValue></Reference></SignedInfo><SignatureValue>G0lHB2UJV7SxurkHc/ucREINBY7d2ZBBq+D/LraqOsOJ45zMk1SYdgbkxo1905SSMbUgINlxrsA1JAZZLidzmFx8xtF+T1nAGxsMSh4zuB9CHVrUO5r9WiWphKhvS4sCzKQIIsQhtZv6eLy3Wv2HE7BJn834yqAOY9ZiLuIx70Q=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>kZk9qcc6R1ZIkX3peCNzTi8+d7TxTM+ZWt6o7uZmZ10asSrKvG0pLlmug2P4NvT+ut/Pv5HYJsXYrZosSdVUUwMsX4eBG5m5LW0jKy2zuiNssYd5siFvjr974VvAB28Vu3QF1SOJovmETmGhSkOURqa+dZDiJcHITF1CiDSwDyk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB9TCCAV6gAwIBAgIQGp9xIn0SrLdEywNZxfumBTANBgkqhkiG9w0BAQUFADA5MTcwNQYDVQQDHi4AUwBBAE4AUwBLAFIAVQBUAEkALQBQAEMAXABDAC4AUwAuACAAUABvAGsAYQByMB4XDTE0MTEyODIyNTEyMloXDTE1MTEyOTA0NTEyMlowOTE3MDUGA1UEAx4uAFMAQQBOAFMASwBSAFUAVABJAC0AUABDAFwAQwAuAFMALgAgAFAAbwBrAGEAcjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAkZk9qcc6R1ZIkX3peCNzTi8+d7TxTM+ZWt6o7uZmZ10asSrKvG0pLlmug2P4NvT+ut/Pv5HYJsXYrZosSdVUUwMsX4eBG5m5LW0jKy2zuiNssYd5siFvjr974VvAB28Vu3QF1SOJovmETmGhSkOURqa+dZDiJcHITF1CiDSwDykCAwEAATANBgkqhkiG9w0BAQUFAAOBgQACQVimFEMF4daI3z9tBFVfKZ5l64Ht+DxE9ZKgsq2yfXRyxG75/idJBCzOnB731EhyNGB74kHXzz1f4pa76qU+Zal42GU31yOXMBiOZ5x6h9XTMT/4J91bkwLtz8HpG7I/anG8L1msNCba5vKKNVvGpvW3kEL4QbksCuMxiApjWw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
